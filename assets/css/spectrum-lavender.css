@@ -5,6 +5,9 @@
  */
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai:100,200,300,400,500,700,800,900');
 
+#purple_back{
+  background-color: #439ad5 ;
+}
 body {
   height: 100%;
   color: #3e444d;
@@ -37,6 +40,7 @@ aside {
     padding: 60px 0;
   }
 }
+
 .well {
   border: none;
   box-shadow: none;
@@ -2859,3 +2863,7 @@ p.demo-text {
             background-repeat:   no-repeat;
             background-size:     cover;
         }
+
+#purple_back{
+  background-color: #439ad5 ;
+}
