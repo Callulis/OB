@@ -1529,7 +1529,7 @@ ul#filters li button.btn-link.active {
   text-decoration: none;
   box-shadow: none;
 }
-.portfolio-2 #portfolio-2-carousel .item img {
+.portfolio-2 #portfolio-2-carousel .item img #portfolio-3-carousel{
   margin: 0 auto;
   padding: 10px 30px;
 }
@@ -1555,7 +1555,7 @@ ul#filters li button.btn-link.active {
   line-height: 35px;
 }
 @media (min-width: 767px) {
-  .portfolio-2 #portfolio-2-carousel .item img {
+  .portfolio-2 #portfolio-2-carousel .item img #portfolio-3-carousel {
     max-width: 725px;
   }
 }
@@ -2853,8 +2853,8 @@ p.demo-text {
 .img-logos {
             position: relative;
             /*float: left;*/
-            width:  250px;
-            height: 60px;
+            width:  200px;
+            height: 80px;
             background-position: 50% 50%;
             background-repeat:   no-repeat;
             background-size:     cover;
