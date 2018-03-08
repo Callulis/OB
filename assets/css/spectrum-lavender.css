@@ -21,6 +21,9 @@ html {
   height: 100%;
   width: 100%;
 }
+.round_me{
+  border-radius: 10%;
+}
 img {
   -webkit-backface-visibility: hidden;
   width: auto\9;
